@@ -1,0 +1,7 @@
+body {
+	background: url("../img/284529_full-hd-wallpapers.jpg") !important;
+	background-size: cover;
+}
+.card-login {
+	background: rgba(255, 255, 255, 0.6);
+}
